@@ -1,0 +1,8 @@
+{
+  "name": "deploy_aws_package",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/block-test-org/deploy_aws_package",
+    "ssh": "git@github.com:block-test-org/deploy_aws_package.git"
+  }
+}
